@@ -1,0 +1,10 @@
+p {
+  font-family: tahoma;
+}
+
+button {
+  background-color: white;
+  border: 2px solid black;
+  padding: 5px 10px;
+  font-size: 20px;
+}
